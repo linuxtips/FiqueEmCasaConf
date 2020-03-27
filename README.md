@@ -33,3 +33,5 @@ Palestrante | Twitter | Data | Assunto
 **João Brito** | *Twitter Handle* | *TBD* | *TBD* 
 **Carlos Panato** | *Twitter Handle* | *TBD* | *TBD* 
 **Hector Gonçalves** | *Twitter Handle* | *TBD* | *TBD* 
+**Daniel Requena** | *Twitter Handle* | *TBD* | *TBD* 
+**Loiane Groner** | *Twitter Handle* | *TBD* | *TBD* 
