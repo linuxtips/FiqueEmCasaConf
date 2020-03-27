@@ -37,4 +37,7 @@ Palestrante | Twitter | Data | Assunto
 **Hector Gonçalves** | *Twitter Handle* | *TBD* | *TBD* 
 **Daniel Requena** | *Twitter Handle* | *TBD* | *TBD* 
 **Camila Martins** | *Twitter Handle* | *TBD* | *TBD* 
+**Rodrigo PokemaoBr** | *Twitter Handle* | *TBD* | *TBD* 
+
+
 
