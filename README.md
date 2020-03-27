@@ -1,4 +1,4 @@
-# FiqueEmCasaConf
+# #FiqueEmCasaConf
 
 Conferência sobre tecnologia totalmente gratuita que irá reunir os maiores nomes da tecnologia para trazer conteúdo relevante durante esse período de quarentena!
 
@@ -7,11 +7,11 @@ Vamos todos juntos aprender muito sobre tecnologia e mais do que isso, vamos tod
 Portanto, fique em casa e vamos aprender muita coisa nova!
 
 ### Quando? 
-**De 01/04/2020 à 30/04/2020**
+*De 01/04/2020 à 30/04/2020*
 
 
 ### Onde?
-**[Canal no Youtube da LINUXtips](https://youtube.com/linuxtips)**
+*[Canal no Youtube da LINUXtips](https://youtube.com/linuxtips)*
 
 
 ### Palestrantes confirmados:
