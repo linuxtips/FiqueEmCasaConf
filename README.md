@@ -25,6 +25,7 @@ Palestrante | Twitter | Data | Assunto
 **Jérôme Petazzoni** | *Twitter Handle* | *TBD* | *TBD* 
 **Sasha Rosenbaum** | *Twitter Handle* | *TBD* | *TBD* 
 **Marco Jr Somatório** | *Twitter Handle* | *TBD* | *TBD* 
+**Carol Code** | *Twitter Handle* | *TBD* | *TBD* 
 **Lucas de Souza** | *Twitter Handle* | *TBD* | *TBD* 
 **Eduardo Mendes** | *Twitter Handle* | *TBD* | *TBD* 
 **Michelle Ribeiro** | *Twitter Handle* | *TBD* | *TBD* 
@@ -32,6 +33,8 @@ Palestrante | Twitter | Data | Assunto
 **Jeferson Fernando** | *Twitter Handle* | *TBD* | *TBD* 
 **João Brito** | *Twitter Handle* | *TBD* | *TBD* 
 **Carlos Panato** | *Twitter Handle* | *TBD* | *TBD* 
+**Loiane Groner** | *Twitter Handle* | *TBD* | *TBD* 
 **Hector Gonçalves** | *Twitter Handle* | *TBD* | *TBD* 
 **Daniel Requena** | *Twitter Handle* | *TBD* | *TBD* 
-**Loiane Groner** | *Twitter Handle* | *TBD* | *TBD* 
+**Camila Martins** | *Twitter Handle* | *TBD* | *TBD* 
+
