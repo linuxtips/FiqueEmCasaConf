@@ -22,8 +22,8 @@ Palestrante | Twitter | Data | Assunto
 **Mateus Prado** | *Twitter Handle* | *TBD* | *TBD*
 **Rafael Gomex** | *Twitter Handle* | *TBD* | *TBD* 
 **Bruno Rocha** | *Twitter Handle* | *TBD* | *TBD* 
-**Jérôme Petazzoni** | *Twitter Handle* | *TBD* | *TBD* 
-**Sasha Rosenbaum** | *Twitter Handle* | *TBD* | *TBD* 
+**Jérôme Petazzoni** | *Twitter Handle* | *15/04/2020* | *TBD* 
+**Sasha Rosenbaum** | *@DivineOps* | *22/04/2020* | *TBD* 
 **Marco Jr Somatório** | *Twitter Handle* | *TBD* | *TBD* 
 **Carol Code** | *Twitter Handle* | *TBD* | *TBD* 
 **Lucas de Souza** | *Twitter Handle* | *TBD* | *TBD* 
@@ -38,6 +38,8 @@ Palestrante | Twitter | Data | Assunto
 **Daniel Requena** | *Twitter Handle* | *TBD* | *TBD* 
 **Camila Martins** | *Twitter Handle* | *TBD* | *TBD* 
 **Rodrigo PokemaoBr** | *Twitter Handle* | *TBD* | *TBD* 
+**Luciano Ramalho** | *Twitter Handle* | *TBD* | *TBD* 
+**Fernando Ike** | *Twitter Handle* | *TBD* | *TBD* 
 
 
 
