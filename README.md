@@ -6,8 +6,16 @@ Vamos todos juntos aprender muito sobre tecnologia e mais do que isso, vamos tod
 
 Portanto, fique em casa e vamos aprender muita coisa nova!
 
+### Quando? 
+**De 01/04/2020 à 30/04/2020**
 
-## Palestrantes confirmados:
+
+### Onde?
+**[Canal no Youtube da LINUXtips](https://youtube.com/linuxtips)**
+
+
+### Palestrantes confirmados:
+Veja a grade de palestrantes confirmados e as datas de cada palestra!
 
 Palestrante | Twitter | Data | Assunto
 --- | --- | --- | --
