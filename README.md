@@ -13,6 +13,8 @@ Portanto, fique em casa e vamos aprender muita coisa nova!
 ### Onde?
 *[Canal no Youtube da LINUXtips](https://youtube.com/linuxtips)*
 
+### Leia o código de conduta
+*[Código de Conduta](https://github.com/linuxtips/FiqueEmCasaConf/blob/master/codigodeconduta.md)*
 
 ### Palestrantes confirmados:
 Veja a grade de palestrantes confirmados e as datas de cada palestra!
