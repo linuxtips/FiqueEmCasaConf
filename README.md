@@ -36,7 +36,7 @@ Palestrante | Twitter | Data | Assunto
 **João Brito** | *@juniorjbn* | *TBD* | *TBD* 
 **Carlos Panato** | *@comedordexis* | *TBD* | *TBD* 
 **Loiane Groner** | *@loiane* | *TBD* | *TBD* 
-**Hector Gonçalves** | *Twitter Handle* | *TBD* | *TBD* 
+**Hector Gonçalves** | *@HectorAGP* | *TBD* | *TBD* 
 **Daniel Requena** | *@Daniel_Requena* | *TBD* | *TBD* 
 **Camila Martins** | *@punkdodevops* | *TBD* | *TBD* 
 **Rodrigo PokemaoBr** | *@pokemaobr* | *TBD* | *TBD* 
@@ -48,5 +48,6 @@ Palestrante | Twitter | Data | Assunto
 **Natalia Raythz** | *@NatOps_* | *TBD* | *TBD*
 **Daniel Romero** | *@infoslack* | *TBD* | *TBD*
 **Daniela Vieira** | *@danivieira* | *TBD* | *TBD* 
-**Magno Vitalino** | *Twitter Handle* | *TBD* | *TBD*
 **Julia Lamenza** | *@jlamenza18* | *TBD* | *TBD*
+**Régis (do Python) da Silva** | *@rg3915* | *TBD* | *TBD*
+**Giovanni Bassi** | *@giovannibassi* | *TBD* | *TBD*
