@@ -21,27 +21,31 @@ Veja a grade de palestrantes confirmados e as datas de cada palestra!
 
 Palestrante | Twitter | Data | Assunto
 --- | --- | --- | --
-**Mateus Prado** | *Twitter Handle* | *TBD* | *TBD*
-**Rafael Gomex** | *Twitter Handle* | *TBD* | *TBD* 
-**Bruno Rocha** | *Twitter Handle* | *TBD* | *TBD* 
-**Jérôme Petazzoni** | *Twitter Handle* | *15/04/2020* | *TBD* 
+**Mateus Prado** | *@mateusprado* | *TBD* | *TBD*
+**Rafael Gomex** | *@gomex* | *TBD* | *TBD* 
+**Bruno Rocha** | *@brunorochads* | *TBD* | *TBD* 
+**Jérôme Petazzoni** | *@jpetazzo* | *15/04/2020* | *TBD* 
 **Sasha Rosenbaum** | *@DivineOps* | *22/04/2020* | *TBD* 
-**Marco Jr Somatório** | *Twitter Handle* | *TBD* | *TBD* 
-**Carol Code** | *Twitter Handle* | *TBD* | *TBD* 
+**Marco Jr Somatório** | *@somatorio* | *TBD* | *TBD* 
+**Carol Code** | *@carolcode* | *TBD* | *TBD* 
 **Lucas de Souza** | *Twitter Handle* | *TBD* | *TBD* 
-**Eduardo Mendes** | *Twitter Handle* | *TBD* | *TBD* 
-**Michelle Ribeiro** | *Twitter Handle* | *TBD* | *TBD* 
-**Gleydson Mazioli** | *Twitter Handle* | *TBD* | *TBD* 
-**Jeferson Fernando** | *Twitter Handle* | *TBD* | *TBD* 
-**João Brito** | *Twitter Handle* | *TBD* | *TBD* 
-**Carlos Panato** | *Twitter Handle* | *TBD* | *TBD* 
-**Loiane Groner** | *Twitter Handle* | *TBD* | *TBD* 
+**Eduardo Mendes** | *@dunossauro* | *TBD* | *TBD* 
+**Michelle Ribeiro** | *@michelleribeiro* | *TBD* | *TBD* 
+**Gleydson Mazioli** | *@gleydsonmazioli* | *TBD* | *TBD* 
+**Jeferson Fernando** | *@badtux_* | *TBD* | *TBD* 
+**João Brito** | *@juniorjbn* | *TBD* | *TBD* 
+**Carlos Panato** | *@comedordexis* | *TBD* | *TBD* 
+**Loiane Groner** | *@loiane* | *TBD* | *TBD* 
 **Hector Gonçalves** | *Twitter Handle* | *TBD* | *TBD* 
-**Daniel Requena** | *Twitter Handle* | *TBD* | *TBD* 
-**Camila Martins** | *Twitter Handle* | *TBD* | *TBD* 
-**Rodrigo PokemaoBr** | *Twitter Handle* | *TBD* | *TBD* 
-**Luciano Ramalho** | *Twitter Handle* | *TBD* | *TBD* 
-**Fernando Ike** | *Twitter Handle* | *TBD* | *TBD* 
-
-
-
+**Daniel Requena** | *@Daniel_Requena* | *TBD* | *TBD* 
+**Camila Martins** | *@punkdodevops* | *TBD* | *TBD* 
+**Rodrigo PokemaoBr** | *@pokemaobr* | *TBD* | *TBD* 
+**Luciano Ramalho** | *@ramalhoorg* | *TBD* | *TBD* 
+**Fernando Ike** | *@fernandoike* | *TBD* | *TBD* 
+**Dan "phrawzty" Maher** | *@phrawzty* | *TBD* | *TBD* 
+**Andrew Clay Shafer** | *@littleidea* | *TBD* | *TBD*
+**Guto Carvalho** | *@gutocarvalho* | *TBD* | *TBD*
+**Natalia Raythz** | *NatOps_* | *TBD* | *TBD*
+**Daniel Romero** | *@infoslack* | *TBD* | *TBD*
+**Daniela Vieira** | *@danivieira* | *TBD* | *TBD* 
+**Magno Vitalino** | *Twitter Handle* | *TBD* | *TBD*
