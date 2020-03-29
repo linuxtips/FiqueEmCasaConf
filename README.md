@@ -43,7 +43,8 @@ Palestrante | Twitter | Data | Assunto
 **Dan "phrawzty" Maher** | *@phrawzty* | *TBD* | *TBD* 
 **Andrew Clay Shafer** | *@littleidea* | *TBD* | *TBD*
 **Guto Carvalho** | *@gutocarvalho* | *TBD* | *TBD*
-**Natalia Raythz** | *NatOps_* | *TBD* | *TBD*
+**Natalia Raythz** | *@NatOps_* | *TBD* | *TBD*
 **Daniel Romero** | *@infoslack* | *TBD* | *TBD*
 **Daniela Vieira** | *@danivieira* | *TBD* | *TBD* 
 **Magno Vitalino** | *Twitter Handle* | *TBD* | *TBD*
+**Julia Lamenza** | *@jlamenza18* | *TBD* | *TBD*
