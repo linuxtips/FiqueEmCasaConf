@@ -63,6 +63,6 @@ Palestrante | Twitter | Data | Assunto
 **Natalia Raythz** | *[@NatOps_](https://twitter.com/NatOps_)* | *TBD* | *TBD*
 **Rafael Gomex** | *[@gomex](https://twitter.com/gomex)* | *TBD* | *TBD*
 **Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* | *TBD* | *TBD*
-**Régis (do Python) da Silva** | *[@rg3915](https://twitter.com/rg3915)* | *TBD* | *TBD*
+**Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* | *TBD* | *TBD*
 **Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* | *22/04/2020* | *TBD*
 **Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)* | *TBD* | *TBD*
