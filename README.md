@@ -23,7 +23,7 @@ Palestrante | Twitter | Data | Assunto
 --- | --- | --- | --
 **Mateus Prado** | *@mateusprado* | *TBD* | *TBD*
 **Rafael Gomex** | *@gomex* | *TBD* | *TBD* 
-**Bruno Rocha** | *@brunorochads* | *TBD* | *TBD* 
+**Bruno Rocha** | *@rochacbruno* | *TBD* | *TBD* 
 **Jérôme Petazzoni** | *@jpetazzo* | *15/04/2020* | *TBD* 
 **Sasha Rosenbaum** | *@DivineOps* | *22/04/2020* | *TBD* 
 **Marco Jr Somatório** | *@somatorio* | *TBD* | *TBD* 
