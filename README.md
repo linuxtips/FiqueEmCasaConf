@@ -42,9 +42,9 @@ Palestrante | Twitter | Data | Assunto
 **Daniel Romero** | *[@infoslack](https://twitter.com/infoslack)* | *TBD* | *TBD*
 **Daniela Vieira** | *[@danivieira](https://twitter.com/danivieira)* | *TBD* | *TBD*
 **Eduardo Mendes** | *[@dunossauro](https://twitter.com/dunossauro)* | *TBD* | *TBD*
-**Ellen Körbes** | *[@ellenkorbes](https://twitter.com/ellenkorbes)* | *TBD* | *TBD*
+**Ellen Körbes** | *[@ellenkorbes](https://twitter.com/ellenkorbes)* | *08/04/2020* | *TBD*
 **Fernando Ike** | *[@fernandoike](https://twitter.com/fernandoike)* | *TBD* | *TBD*
-**Fábio Trentini** | *[@trentas](https://twitter.com/trentas)* | *TBD* | *TBD*
+**Fábio Trentini** | *[@trentas](https://twitter.com/trentas)* | *03/04/2020* | *TBD*
 **Giovanni Bassi** | *[@giovannibassi](https://twitter.com/giovannibassi)* | *TBD* | *TBD*
 **Gleydson Mazioli** | *[@gleydsonmazioli](https://twitter.com/gleydsonmazioli)* | *TBD* | *TBD*
 **Guto Carvalho** | *[@gutocarvalho](https://twitter.com/gutocarvalho)* | *TBD* | *TBD*
@@ -54,7 +54,7 @@ Palestrante | Twitter | Data | Assunto
 **João Brito** | *[@juniorjbn](https://twitter.com/juniorjbn)* | *TBD* | *TBD*
 **Julia Lamenza** | *[@jlamenza18](https://twitter.com/jlamenza18)* | *TBD* | *TBD*
 **Jérôme Petazzoni** | *[@jpetazzo](https://twitter.com/jpetazzo)* | *15/04/2020* | *TBD*
-**Loiane Groner** | *[@loiane](https://twitter.com/loiane)* | *TBD* | *TBD*
+**Loiane Groner** | *[@loiane](https://twitter.com/loiane)* | *02/04/2020* | *TBD*
 **Lucas de Souza** | *Twitter Handle* | *TBD* | *TBD*
 **Luciano Ramalho** | *[@ramalhoorg](https://twitter.com/ramalhoorg)* | *07/04/2020* | *TBD*
 **Marco Jr Somatório** | *[@somatorio](https://twitter.com/somatorio)* | *TBD* | *TBD*
