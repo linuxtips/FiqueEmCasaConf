@@ -7,11 +7,19 @@ Vamos todos juntos aprender muito sobre tecnologia e mais do que isso, vamos tod
 Portanto, fique em casa e vamos aprender muita coisa nova!
 
 ### Quando? 
-*De 01/04/2020 à 30/04/2020*
-
+*De 01/04/2020 à 30/04/2020* (Possivelmente iremos invadir o mês de Maio também! haha)
 
 ### Onde?
 *[Canal no Youtube da LINUXtips](https://youtube.com/linuxtips)*
+
+### Será ao vivo?
+Sim. \o/
+
+### Qual o formato das palestras?
+Pedimos que as palestras tenham a duração máxima de 01:15h (01 hora e 15 minutos).
+
+### Você poderá falar sobre a empresa pela qual atua e projetos pessoais?
+Claro! Mas lembre-se, o foco é a palestra e seu conteúdo. :D
 
 ### Leia o código de conduta
 *[Código de Conduta](https://github.com/linuxtips/FiqueEmCasaConf/blob/master/codigodeconduta.md)*
@@ -51,3 +59,7 @@ Palestrante | Twitter | Data | Assunto
 **Julia Lamenza** | *@jlamenza18* | *TBD* | *TBD*
 **Régis (do Python) da Silva** | *@rg3915* | *TBD* | *TBD*
 **Giovanni Bassi** | *@giovannibassi* | *TBD* | *TBD*
+**Ellen Körbes** | *@ellenkorbes* | *TBD* | *TBD*
+**Ismael Apolinario** | *@iapolinario* | *TBD* | *TBD*
+**Wellington F. Silva** | *@_wsilva* | *TBD* | *TBD*
+**Fábio Trentini** | *@trentas* | *TBD* | *TBD*
