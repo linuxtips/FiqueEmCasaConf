@@ -51,7 +51,7 @@ Palestrante | Twitter | Data | Assunto
 **Hector Gonçalves** | *[@HectorAGP](https://twitter.com/HectorAGP)* | *TBD* | *TBD*
 **Ismael Apolinario** | *[@iapolinario](https://twitter.com/iapolinario)* | *TBD* | *TBD*
 **Jeferson Fernando** | *[@badtux_](https://twitter.com/badtux_)* | *TBD* | *TBD*
-**João Brito** | *[@juniorjbn](https://twitter.com/juniorjbn)* | *TBD* | *TBD*
+**João Brito** | *[@juniorjbn](https://twitter.com/juniorjbn)* | *10/04/2020* | *TBD*
 **Julia Lamenza** | *[@jlamenza18](https://twitter.com/jlamenza18)* | *TBD* | *TBD*
 **Jérôme Petazzoni** | *[@jpetazzo](https://twitter.com/jpetazzo)* | *15/04/2020* | *TBD*
 **Loiane Groner** | *[@loiane](https://twitter.com/loiane)* | *02/04/2020* | *TBD*
@@ -62,7 +62,7 @@ Palestrante | Twitter | Data | Assunto
 **Michelle Ribeiro** | *[@michelleribeiro](https://twitter.com/michelleribeiro)* | *TBD* | *TBD*
 **Natalia Raythz** | *[@NatOps_](https://twitter.com/NatOps_)* | *TBD* | *TBD*
 **Rafael Gomex** | *[@gomex](https://twitter.com/gomex)* | *TBD* | *TBD*
-**Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* | *TBD* | *TBD*
+**Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* | *05/04/2020* | *TBD*
 **Régis (do Python) da Silva** | *[@rg3915](https://twitter.com/rg3915)* | *TBD* | *TBD*
 **Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* | *22/04/2020* | *TBD*
 **Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)* | *TBD* | *TBD*
