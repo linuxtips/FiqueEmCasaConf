@@ -16,7 +16,7 @@ Portanto, fique em casa e vamos aprender muita coisa nova!
 Sim. \o/
 
 ### E o horário?
-Será todos os dias as 16:00 (Horário de Brasília)
+Será todos os dias, as 16:00 (Horário de Brasília)
 
 ### Qual o formato das palestras?
 Pedimos que as palestras tenham a duração máxima de 01:15h (01 hora e 15 minutos).
