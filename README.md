@@ -29,37 +29,37 @@ Veja a grade de palestrantes confirmados e as datas de cada palestra!
 
 Palestrante | Twitter | Data | Assunto
 --- | --- | --- | --
-**Mateus Prado** | *@mateusprado* | *TBD* | *TBD*
-**Rafael Gomex** | *@gomex* | *TBD* | *TBD* 
-**Bruno Rocha** | *@rochacbruno* | *TBD* | *TBD* 
-**Jérôme Petazzoni** | *@jpetazzo* | *15/04/2020* | *TBD* 
-**Sasha Rosenbaum** | *@DivineOps* | *22/04/2020* | *TBD* 
-**Marco Jr Somatório** | *@somatorio* | *TBD* | *TBD* 
-**Carol Code** | *@carolcode* | *TBD* | *TBD* 
-**Lucas de Souza** | *Twitter Handle* | *TBD* | *TBD* 
-**Eduardo Mendes** | *@dunossauro* | *TBD* | *TBD* 
-**Michelle Ribeiro** | *@michelleribeiro* | *TBD* | *TBD* 
-**Gleydson Mazioli** | *@gleydsonmazioli* | *TBD* | *TBD* 
-**Jeferson Fernando** | *@badtux_* | *TBD* | *TBD* 
-**João Brito** | *@juniorjbn* | *TBD* | *TBD* 
-**Carlos Panato** | *@comedordexis* | *TBD* | *TBD* 
-**Loiane Groner** | *@loiane* | *TBD* | *TBD* 
-**Hector Gonçalves** | *@HectorAGP* | *TBD* | *TBD* 
-**Daniel Requena** | *@Daniel_Requena* | *TBD* | *TBD* 
-**Camila Martins** | *@punkdodevops* | *TBD* | *TBD* 
-**Rodrigo PokemaoBr** | *@pokemaobr* | *TBD* | *TBD* 
-**Luciano Ramalho** | *@ramalhoorg* | *TBD* | *TBD* 
-**Fernando Ike** | *@fernandoike* | *TBD* | *TBD* 
-**Dan "phrawzty" Maher** | *@phrawzty* | *TBD* | *TBD* 
 **Andrew Clay Shafer** | *@littleidea* | *TBD* | *TBD*
-**Guto Carvalho** | *@gutocarvalho* | *TBD* | *TBD*
-**Natalia Raythz** | *@NatOps_* | *TBD* | *TBD*
+**Bruno Rocha** | *@rochacbruno* | *TBD* | *TBD*
+**Camila Martins** | *@punkdodevops* | *TBD* | *TBD*
+**Carlos Panato** | *@comedordexis* | *TBD* | *TBD*
+**Carol Code** | *@carolcode* | *TBD* | *TBD*
+**Dan "phrawzty" Maher** | *@phrawzty* | *TBD* | *TBD*
+**Daniel Requena** | *@Daniel_Requena* | *TBD* | *TBD*
 **Daniel Romero** | *@infoslack* | *TBD* | *TBD*
-**Daniela Vieira** | *@danivieira* | *TBD* | *TBD* 
-**Julia Lamenza** | *@jlamenza18* | *TBD* | *TBD*
-**Régis (do Python) da Silva** | *@rg3915* | *TBD* | *TBD*
-**Giovanni Bassi** | *@giovannibassi* | *TBD* | *TBD*
+**Daniela Vieira** | *@danivieira* | *TBD* | *TBD*
+**Eduardo Mendes** | *@dunossauro* | *TBD* | *TBD*
 **Ellen Körbes** | *@ellenkorbes* | *TBD* | *TBD*
-**Ismael Apolinario** | *@iapolinario* | *TBD* | *TBD*
-**Wellington F. Silva** | *@_wsilva* | *TBD* | *TBD*
+**Fernando Ike** | *@fernandoike* | *TBD* | *TBD*
 **Fábio Trentini** | *@trentas* | *TBD* | *TBD*
+**Giovanni Bassi** | *@giovannibassi* | *TBD* | *TBD*
+**Gleydson Mazioli** | *@gleydsonmazioli* | *TBD* | *TBD*
+**Guto Carvalho** | *@gutocarvalho* | *TBD* | *TBD*
+**Hector Gonçalves** | *@HectorAGP* | *TBD* | *TBD*
+**Ismael Apolinario** | *@iapolinario* | *TBD* | *TBD*
+**Jeferson Fernando** | *@badtux_* | *TBD* | *TBD*
+**João Brito** | *@juniorjbn* | *TBD* | *TBD*
+**Julia Lamenza** | *@jlamenza18* | *TBD* | *TBD*
+**Jérôme Petazzoni** | *@jpetazzo* | *15/04/2020* | *TBD*
+**Loiane Groner** | *@loiane* | *TBD* | *TBD*
+**Lucas de Souza** | *Twitter Handle* | *TBD* | *TBD*
+**Luciano Ramalho** | *@ramalhoorg* | *TBD* | *TBD*
+**Marco Jr Somatório** | *@somatorio* | *TBD* | *TBD*
+**Mateus Prado** | *@mateusprado* | *TBD* | *TBD*
+**Michelle Ribeiro** | *@michelleribeiro* | *TBD* | *TBD*
+**Natalia Raythz** | *@NatOps_* | *TBD* | *TBD*
+**Rafael Gomex** | *@gomex* | *TBD* | *TBD*
+**Rodrigo PokemaoBr** | *@pokemaobr* | *TBD* | *TBD*
+**Régis (do Python) da Silva** | *@rg3915* | *TBD* | *TBD*
+**Sasha Rosenbaum** | *@DivineOps* | *22/04/2020* | *TBD*
+**Wellington F. Silva** | *@_wsilva* | *TBD* | *TBD*
