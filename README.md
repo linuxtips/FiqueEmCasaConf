@@ -57,6 +57,7 @@ Palestrante | Twitter
 **Loiane Groner** | *[@loiane](https://twitter.com/loiane)*
 **Lucas de Souza** | *Twitter Handle* 
 **Luciano Ramalho** | *[@ramalhoorg](https://twitter.com/ramalhoorg)*
+**Marcelo Castellani** | *[@mfcastellani](https://twitter.com/mfcastellani)*
 **Marco Jr Somatório** | *[@somatorio](https://twitter.com/somatorio)* 
 **Mateus Prado** | *[@mateusprado](https://twitter.com/mateusprado)* 
 **Michelle Ribeiro** | *[@michelleribeiro](https://twitter.com/michelleribeiro)* 
@@ -80,3 +81,4 @@ Data | Palestrante | Assunto
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
 *21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
+*23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
