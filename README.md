@@ -82,3 +82,4 @@ Data | Palestrante | Assunto
 *21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
+*25/04/2020* | **Bruno Rocha** | *TBD*
