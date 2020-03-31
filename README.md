@@ -30,39 +30,53 @@ Claro! Mas lembre-se, o foco é a palestra e seu conteúdo. :D
 ### Palestrantes confirmados:
 Veja a grade de palestrantes confirmados e as datas de cada palestra!
 
-Palestrante | Twitter | Data | Assunto
---- | --- | --- | --
-**Andrew Clay Shafer** | *[@littleidea](https://twitter.com/littleidea)* | *TBD* | *TBD*
-**Bruno Rocha** | *[@rochacbruno](https://twitter.com/rochacbruno)* | *TBD* | *TBD*
-**Camila Martins** | *[@punkdodevops](https://twitter.com/punkdodevops)* | *TBD* | *TBD*
-**Carlos Panato** | *[@comedordexis](https://twitter.com/comedordexis)* | *TBD* | *TBD*
-**Carol Code** | *[@carolcode](https://twitter.com/carolcode)* | *TBD* | *TBD*
-**Dan "phrawzty" Maher** | *[@phrawzty](https://twitter.com/phrawzty)* | *TBD* | *TBD*
-**Daniel Requena** | *[@Daniel_Requena](https://twitter.com/Daniel_Requena)* | *21/04/2020* | *Prometheus Operator, a tale about containers monitoring at iFood*
-**Daniel Romero** | *[@infoslack](https://twitter.com/infoslack)* | *TBD* | *TBD*
-**Daniela Vieira** | *[@danivieira](https://twitter.com/danivieira)* | *TBD* | *TBD*
-**Eduardo Mendes** | *[@dunossauro](https://twitter.com/dunossauro)* | *TBD* | *TBD*
-**Ellen Körbes** | *[@ellenkorbes](https://twitter.com/ellenkorbes)* | *08/04/2020* | *TBD*
-**Fernando Ike** | *[@fernandoike](https://twitter.com/fernandoike)* | *TBD* | *TBD*
-**Fábio Trentini** | *[@trentas](https://twitter.com/trentas)* | *03/04/2020* | *TBD*
-**Giovanni Bassi** | *[@giovannibassi](https://twitter.com/giovannibassi)* | *TBD* | *TBD*
-**Gleydson Mazioli** | *[@gleydsonmazioli](https://twitter.com/gleydsonmazioli)* | *TBD* | *TBD*
-**Guto Carvalho** | *[@gutocarvalho](https://twitter.com/gutocarvalho)* | *TBD* | *TBD*
-**Hector Gonçalves** | *[@HectorAGP](https://twitter.com/HectorAGP)* | *TBD* | *TBD*
-**Ismael Apolinario** | *[@iapolinario](https://twitter.com/iapolinario)* | *TBD* | *TBD*
-**Jeferson Fernando** | *[@badtux_](https://twitter.com/badtux_)* | *TBD* | *TBD*
-**João Brito** | *[@juniorjbn](https://twitter.com/juniorjbn)* | *10/04/2020* | *TBD*
-**Julia Lamenza** | *[@jlamenza18](https://twitter.com/jlamenza18)* | *TBD* | *TBD*
-**Jérôme Petazzoni** | *[@jpetazzo](https://twitter.com/jpetazzo)* | *15/04/2020* | *TBD*
-**Loiane Groner** | *[@loiane](https://twitter.com/loiane)* | *02/04/2020* | *TBD*
-**Lucas de Souza** | *Twitter Handle* | *TBD* | *TBD*
-**Luciano Ramalho** | *[@ramalhoorg](https://twitter.com/ramalhoorg)* | *07/04/2020* | *TBD*
-**Marco Jr Somatório** | *[@somatorio](https://twitter.com/somatorio)* | *TBD* | *TBD*
-**Mateus Prado** | *[@mateusprado](https://twitter.com/mateusprado)* | *TBD* | *TBD*
-**Michelle Ribeiro** | *[@michelleribeiro](https://twitter.com/michelleribeiro)* | *TBD* | *TBD*
-**Natalia Raythz** | *[@NatOps_](https://twitter.com/NatOps_)* | *TBD* | *TBD*
-**Rafael Gomex** | *[@gomex](https://twitter.com/gomex)* | *TBD* | *TBD*
-**Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* | *05/04/2020* | *TBD*
-**Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* | *TBD* | *TBD*
-**Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* | *22/04/2020* | *TBD*
-**Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)* | *TBD* | *TBD*
+Palestrante | Twitter 
+--- | --- 
+**Andrew Clay Shafer** | *[@littleidea](https://twitter.com/littleidea)* 
+**Bruno Rocha** | *[@rochacbruno](https://twitter.com/rochacbruno)* 
+**Camila Martins** | *[@punkdodevops](https://twitter.com/punkdodevops)* 
+**Carlos Panato** | *[@comedordexis](https://twitter.com/comedordexis)* 
+**Carol Code** | *[@carolcode](https://twitter.com/carolcode)* 
+**Dan "phrawzty" Maher** | *[@phrawzty](https://twitter.com/phrawzty)* 
+**Daniel Requena** | *[@Daniel_Requena](https://twitter.com/Daniel_Requena)*
+**Daniel Romero** | *[@infoslack](https://twitter.com/infoslack)* 
+**Daniela Vieira** | *[@danivieira](https://twitter.com/danivieira)* 
+**Eduardo Mendes** | *[@dunossauro](https://twitter.com/dunossauro)* 
+**Ellen Körbes** | *[@ellenkorbes](https://twitter.com/ellenkorbes)* 
+**Fernando Ike** | *[@fernandoike](https://twitter.com/fernandoike)* 
+**Fábio Trentini** | *[@trentas](https://twitter.com/trentas)* 
+**Giovanni Bassi** | *[@giovannibassi](https://twitter.com/giovannibassi)* 
+**Gleydson Mazioli** | *[@gleydsonmazioli](https://twitter.com/gleydsonmazioli)* 
+**Guto Carvalho** | *[@gutocarvalho](https://twitter.com/gutocarvalho)* 
+**Hector Gonçalves** | *[@HectorAGP](https://twitter.com/HectorAGP)* 
+**Ismael Apolinario** | *[@iapolinario](https://twitter.com/iapolinario)* 
+**Jeferson Fernando** | *[@badtux_](https://twitter.com/badtux_)* 
+**João Brito** | *[@juniorjbn](https://twitter.com/juniorjbn)* 
+**Julia Lamenza** | *[@jlamenza18](https://twitter.com/jlamenza18)* 
+**Jérôme Petazzoni** | *[@jpetazzo](https://twitter.com/jpetazzo)* 
+**Loiane Groner** | *[@loiane](https://twitter.com/loiane)*
+**Lucas de Souza** | *Twitter Handle* 
+**Luciano Ramalho** | *[@ramalhoorg](https://twitter.com/ramalhoorg)*
+**Marco Jr Somatório** | *[@somatorio](https://twitter.com/somatorio)* 
+**Mateus Prado** | *[@mateusprado](https://twitter.com/mateusprado)* 
+**Michelle Ribeiro** | *[@michelleribeiro](https://twitter.com/michelleribeiro)* 
+**Natalia Raythz** | *[@NatOps_](https://twitter.com/NatOps_)* 
+**Rafael Gomex** | *[@gomex](https://twitter.com/gomex)* 
+**Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* 
+**Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* 
+**Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* 
+**Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)* 
+
+### Grade de palestras com datas confirmadas
+Data | Palestrante | Assunto
+--- | --- | ---
+*01/04/2020* | **Organização** | Abertura
+*02/04/2020* | **Loiane Groner** | *TBD*
+*03/04/2020* | **Fábio Trentini** | *TBD*
+*05/04/2020* | **Rodrigo PokemaoBr** | *TBD*
+*07/04/2020* | **Luciano Ramalho** | *TBD*
+*08/04/2020* | **Ellen Körbes** | *TBD*
+*10/04/2020* | **João Brito** | *TBD*
+*15/04/2020* | **Jérôme Petazzoni** | *TBD*
+*21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
+*22/04/2020* | **Sasha Rosenbaum** | *TBD*
