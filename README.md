@@ -38,7 +38,7 @@ Palestrante | Twitter | Data | Assunto
 **Carlos Panato** | *[@comedordexis](https://twitter.com/comedordexis)* | *TBD* | *TBD*
 **Carol Code** | *[@carolcode](https://twitter.com/carolcode)* | *TBD* | *TBD*
 **Dan "phrawzty" Maher** | *[@phrawzty](https://twitter.com/phrawzty)* | *TBD* | *TBD*
-**Daniel Requena** | *[@Daniel_Requena](https://twitter.com/Daniel_Requena)* | *TBD* | *TBD*
+**Daniel Requena** | *[@Daniel_Requena](https://twitter.com/Daniel_Requena)* | *21/04/2020* | *Prometheus Operator, a tale about containers monitoring at iFood*
 **Daniel Romero** | *[@infoslack](https://twitter.com/infoslack)* | *TBD* | *TBD*
 **Daniela Vieira** | *[@danivieira](https://twitter.com/danivieira)* | *TBD* | *TBD*
 **Eduardo Mendes** | *[@dunossauro](https://twitter.com/dunossauro)* | *TBD* | *TBD*
