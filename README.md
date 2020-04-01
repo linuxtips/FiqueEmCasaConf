@@ -62,6 +62,8 @@ Palestrante | Twitter
 **Mateus Prado** | *[@mateusprado](https://twitter.com/mateusprado)* 
 **Michelle Ribeiro** | *[@michelleribeiro](https://twitter.com/michelleribeiro)* 
 **Natalia Raythz** | *[@NatOps_](https://twitter.com/NatOps_)* 
+**Nathen Harvey** | *[@nathenharvey](https://twitter.com/nathenharvey)*
+**Patrick Debois** | *[@patrickdebois](https://twitter.com/patrickdebois)*
 **Rafael Gomex** | *[@gomex](https://twitter.com/gomex)* 
 **Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* 
 **Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* 
@@ -84,4 +86,6 @@ Data | Palestrante | Assunto
 *21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
+*24/04/2020* | **Carol Code** | *TBD*
 *25/04/2020* | **Bruno Rocha** | *TBD*
+*02/05/2020* | **Patrick Debois** | *TDB*
