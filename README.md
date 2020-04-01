@@ -87,7 +87,7 @@ Data | Palestrante | Assunto
 --- | --- | ---
 *01/04/2020* | **Organização** | Abertura
 *02/04/2020* | **Loiane Groner** | *TBD*
-*03/04/2020* | **Fábio Trentini** | *TBD*
+*03/04/2020* | **Fabio Trentini** | *Empreendendo em Tecnologia: Desafios e Aprendizados em um momento de crise*
 *05/04/2020* | **Rodrigo PokemaoBr** | *TBD*
 *07/04/2020* | **Luciano Ramalho** | *TBD*
 *08/04/2020* | **Ellen Körbes** | *TBD*
