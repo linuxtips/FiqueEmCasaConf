@@ -69,9 +69,20 @@ Palestrante | Twitter
 **Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* 
 **Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* 
 **Talita Bernardes** | *[@talits_bp](https://twitter.com/talits_bp)* 
-**Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)* 
+**Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)*
 
-### Grade de palestras com datas confirmadas
+### Calendário de palestras confirmadas
+
+ dom | seg | ter | qua | qui | sex | sab 
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+29<br><br><br>|30<br><br><br>|31<br><br><br>|1<br>Abertura<br>**Organização**|2<br>*TBD*<br>**Loiane Groner**|3<br>*TBD*<br>**Fábio Trentini**|4<br><br><br>|
+5<br>*TBD*<br>**Rodrigo PokemaoBr**|6<br><br><br>|7<br>*TBD*<br>**Luciano Ramalho**|8<br>*TBD*<br>**Ellen Körbes**|9<br>*TBD*<br>**Talita Bernardes**|10<br>*TBD*<br>**João Brito**|11<br><br><br>
+12<br><br><br>|13<br><br><br>|14<br><br><br>|15<br>*TBD*<br>**Jérôme Petazzoni**|16<br><br><br>|17<br><br><br>|18<br><br><br>
+19<br><br><br>|20<br>*TBD*<br>**Wellington F. Silva**|21<br>*Prometheus Operator, a tale about containers monitoring at iFood*<br>**Daniel Requena**|22<br>*TBD*<br>**Sasha Rosenbaum**|23<br>*Uma pequena, rápida e divertida intro prática ao Rust*<br>**Marcelo Castellani**|24<br>*TBD*<br>**Carol Code**|25<br>*TBD*<br>**Bruno Rocha**
+26<br><br><br>|27<br><br><br>|28<br><br><br>|29<br><br><br>|30<br><br><br>|1<br><br><br>|2<br>*TBD*<br>**Patrick Debois**
+
+### Mais detalhes das palestras
+
 Data | Palestrante | Assunto
 --- | --- | ---
 *01/04/2020* | **Organização** | Abertura
@@ -83,6 +94,7 @@ Data | Palestrante | Assunto
 *09/04/2020* | **Talita Bernardes** | *TBD*
 *10/04/2020* | **João Brito** | *TBD*
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
+*20/04/2020* | **Wellington F. Silva** | *TBD*
 *21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
