@@ -66,6 +66,7 @@ Palestrante | Twitter
 **Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* 
 **Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* 
 **Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* 
+**Talita Bernardes** | *[@talits_bp](https://twitter.com/talits_bp)* 
 **Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)* 
 
 ### Grade de palestras com datas confirmadas
@@ -77,6 +78,7 @@ Data | Palestrante | Assunto
 *05/04/2020* | **Rodrigo PokemaoBr** | *TBD*
 *07/04/2020* | **Luciano Ramalho** | *TBD*
 *08/04/2020* | **Ellen Körbes** | *TBD*
+*09/04/2020* | **Talita Bernardes** | *TBD*
 *10/04/2020* | **João Brito** | *TBD*
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
 *21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
