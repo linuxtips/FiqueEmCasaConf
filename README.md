@@ -102,3 +102,7 @@ Data | Palestrante | Assunto
 *24/04/2020* | **Carol Code** | *TBD*
 *25/04/2020* | **Bruno Rocha** | *TBD*
 *02/05/2020* | **Patrick Debois** | *TDB*
+
+### Vagas
+
+[Vagas disponíveis](vagas.md) - Atualizado em 01/04/2020
