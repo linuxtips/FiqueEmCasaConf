@@ -86,8 +86,7 @@ Palestrante | Twitter
 Data | Palestrante | Assunto
 --- | --- | ---
 *01/04/2020* | **Organização** | Abertura
-*02/04/2020* | **Loiane Groner** | *Fullstack Reativo com Spring e Angular
-*
+*02/04/2020* | **Loiane Groner** | Fullstack Reativo com Spring e Angular
 *03/04/2020* | **Fabio Trentini** | *Empreendendo em Tecnologia: Desafios e Aprendizados em um momento de crise*
 *04/04/2020* | **Marco Jr Somatório** | *TBD*
 *05/04/2020* | **Rodrigo PokemaoBr** | *TBD*
