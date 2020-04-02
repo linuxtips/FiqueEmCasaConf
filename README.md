@@ -99,7 +99,7 @@ Data | Palestrante | Assunto
 *11/04/2020* | **Lucas de Souza** | *Terraform além do básico*
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
 *16/04/2020* | **Rafael Gomex** | *Melhores práticas para seu pipeline de Infra as Code*
-*18/04/2020  | **Sheimy Rahman** | *Classify things in Go: the easy way.*
+*18/04/2020* | **Sheimy Rahman** | *Classify things in Go: the easy way.*
 *20/04/2020* | **Wellington F. Silva** | *TBD*
 *21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
