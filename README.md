@@ -65,5 +65,6 @@ Palestrante | Twitter | Data | Assunto
 **Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* | *05/04/2020* | *TBD*
 **Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* | *TBD* | *TBD*
 **Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* | *22/04/2020* | *TBD*
-**Sheimy Rahman** | *[@Sheimy_Rahman](https://twitter.com/Sheimy_Rahman)* | *11/04/2020* | *TBD*
+**Sheimy Rahman** | *[@Sheimy_Rahman](https://twitter.com/Sheimy_Rahman)* | *18/04/2020* | *Classify things in Go: the easy way.
+Building classifiers quickly with the community contributions.*
 **Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)* | *TBD* | *TBD*
