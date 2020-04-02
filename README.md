@@ -67,7 +67,8 @@ Palestrante | Twitter
 **Rafael Gomex** | *[@gomex](https://twitter.com/gomex)* 
 **Rodrigo PokemaoBr** | *[@pokemaobr](https://twitter.com/pokemaobr)* 
 **Regis (do Python) Santos** | *[@rg3915](https://twitter.com/rg3915)* 
-**Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)* 
+**Sasha Rosenbaum** | *[@DivineOps](https://twitter.com/DivineOps)*
+**Sheimy Rahman** | *[@Sheimy_Rahman](https://twitter.com/Sheimy_Rahman)*
 **Talita Bernardes** | *[@talits_bp](https://twitter.com/talits_bp)* 
 **Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)*
 
@@ -98,6 +99,7 @@ Data | Palestrante | Assunto
 *11/04/2020* | **Lucas de Souza** | *Terraform além do básico*
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
 *16/04/2020* | **Rafael Gomex** | *Melhores práticas para seu pipeline de Infra as Code*
+*18/04/2020  | **Sheimy Rahman** | *Classify things in Go: the easy way.*
 *20/04/2020* | **Wellington F. Silva** | *TBD*
 *21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
