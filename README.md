@@ -93,7 +93,7 @@ Data | Palestrante | Assunto
 *06/04/2020* | **Fernando Ike** | *DevOps é Cultura ou Ferramenta?*
 *07/04/2020* | **Luciano Ramalho** | *TBD*
 *08/04/2020* | **Ellen Körbes** | *TBD*
-*09/04/2020* | **Talita Bernardes** | *TBD*
+*09/04/2020* | **Talita Bernardes** | *Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*
 *10/04/2020* | **João Brito** | *TBD*
 *11/04/2020* | **Lucas de Souza** | *Terraform além do básico*
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
