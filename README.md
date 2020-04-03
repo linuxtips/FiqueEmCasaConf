@@ -34,7 +34,7 @@ Palestrante | Twitter
 --- | --- 
 **Andrew Clay Shafer** | *[@littleidea](https://twitter.com/littleidea)* 
 **Bruno Rocha** | *[@rochacbruno](https://twitter.com/rochacbruno)* 
-**Camila Martins** | *[@punkdodevops](https://twitter.com/punkdodevops)* 
+**Camilla Martins** | *[@punkdodevops](https://twitter.com/punkdodevops)* 
 **Carlos Panato** | *[@comedordexis](https://twitter.com/comedordexis)* 
 **Carol Code** | *[@carolcode](https://twitter.com/carolcode)* 
 **Dan "phrawzty" Maher** | *[@phrawzty](https://twitter.com/phrawzty)* 
@@ -80,7 +80,7 @@ Palestrante | Twitter
 5<br>*TBD*<br>**Rodrigo PokemaoBr**|6<br>DevOps é Cultura ou Ferramenta?<br>**Fernando Ike**<br>|7<br>*TBD*<br>**Luciano Ramalho**|8<br>*TBD*<br>**Ellen Körbes**|9<br>*Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*<br>**Talita Bernardes**|10<br>*TBD*<br>**João Brito**|11<br>*Terraform além do básico*<br>**Lucas de Souza**<br><br><br>
 12<br><br><br>|13<br><br><br>|14<br><br><br>|15<br>*TBD*<br>**Jérôme Petazzoni**|16<br>Melhores práticas para seu pipeline de Infra as Code<br>**Rafael Gomex**|17<br><br><br>|18<br>Classify things in Go: the easy way<br>**Sheimy Rahman**<br>
 19<br><br><br>|20<br>*TBD*<br>**Wellington F. Silva**|21<br>*Prometheus Operator, a tale about containers monitoring at iFood*<br>**Daniel Requena**|22<br>*TBD*<br>**Sasha Rosenbaum**|23<br>*Uma pequena, rápida e divertida intro prática ao Rust*<br>**Marcelo Castellani**|24<br>*TBD*<br>**Carol Code**|25<br>*TBD*<br>**Bruno Rocha**
-26<br><br><br>|27<br><br><br>|28<br><br><br>|29<br><br><br>|30<br><br><br>|1<br><br><br>|2<br>*TBD*<br>**Patrick Debois**
+26<br><br><br>|27<br><br><br>|28<br><br><br>|29<br><br><br>|30<br>*Ideias de rollback automatizado no mundo do blameless*<br>**Camilla Martins**|1<br><br><br>|2<br>*TBD*<br>**Patrick Debois**
 
 ### Mais detalhes das palestras
 
@@ -106,4 +106,5 @@ Data | Palestrante | Assunto
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
 *24/04/2020* | **Carol Code** | *TBD*
 *25/04/2020* | **Bruno Rocha** | *TBD*
+*30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
 *02/05/2020* | **Patrick Debois** | *TDB*
