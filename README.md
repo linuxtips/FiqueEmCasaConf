@@ -77,8 +77,7 @@ Palestrante | Twitter
  dom | seg | ter | qua | qui | sex | sab 
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 29<br><br><br>|30<br><br><br>|31<br><br><br>|1<br>Abertura<br>**Organização**|2<br>*Fullstack Reativo com Spring e Angular*<br>**Loiane Groner**|3<br>*TBD*<br>**Fábio Trentini**|4<br>*TBD*<br>**Marco Jr Somatório**<br>|
-5<br>*Ecossistema PHP + Stand-UP Dev*<br>**Rodrigo PokemaoBr**|6<br><br><br> |7<br>*TBD*<br>**Luciano Ramalho**|8<br>*The Quest for the Fastest Deployment Time
-*<br>**Ellen Körbes**|9<br>*Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*<br>**Talita Bernardes**|10<br>*TBD*<br>**João Brito**|11<br>*Terraform além do básico*<br>**Lucas de Souza**<br><br><br>
+5<br>*Ecossistema PHP + Stand-UP Dev*<br>**Rodrigo PokemaoBr**|6<br><br><br> |7<br>*TBD*<br>**Luciano Ramalho**|8<br>*The Quest for the Fastest Deployment Time*<br>**Ellen Körbes**|9<br>*Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*<br>**Talita Bernardes**|10<br>*TBD*<br>**João Brito**|11<br>*Terraform além do básico*<br>**Lucas de Souza**<br><br><br>
 12<br><br><br>|13<br>TBD<br>**Michelle Ribeiro**|14<br>DevOps é Cultura ou Ferramenta?<br>**Fernando Ike**<br>|15<br>*TBD*<br>**Jérôme Petazzoni**|16<br>Melhores práticas para seu pipeline de Infra as Code<br>**Rafael Gomex**|17<br><br><br>|18<br>Classify things in Go: the easy way<br>**Sheimy Rahman**<br>
 19<br><br><br>|20<br>*TBD*<br>**Wellington F. Silva**|21<br>*Prometheus Operator, a tale about containers monitoring at iFood*<br>**Daniel Requena**|22<br>*TBD*<br>**Sasha Rosenbaum**|23<br>*Uma pequena, rápida e divertida intro prática ao Rust*<br>**Marcelo Castellani**|24<br>*TBD*<br>**Carol Code**|25<br>*TBD*<br>**Bruno Rocha**
 26<br><br><br>|27<br><br><br>|28<br><br><br>|29<br><br><br>|30<br>*Ideias de rollback automatizado no mundo do blameless*<br>**Camilla Martins**|1<br><br><br>|2<br>*TBD*<br>**Patrick Debois**
