@@ -87,13 +87,13 @@ Palestrante | Twitter
 
 Data | Palestrante | Assunto
 --- | --- | ---
-*01/04/2020* | **Organização** | Abertura
-*02/04/2020* | **Loiane Groner** | Fullstack Reativo com Spring e Angular
+*01/04/2020* | **Organização** | *Abertura*
+*02/04/2020* | **Loiane Groner** | *Fullstack Reativo com Spring e Angular*
 *03/04/2020* | **Fabio Trentini** | *Empreendendo em Tecnologia: Desafios e Aprendizados em um momento de crise*
-*04/04/2020* | **Marco Jr Somatório** | *TBD*
-*05/04/2020* | **Rodrigo PokemaoBr** | **Ecossistema PHP: O presente, o passado e o futuro da linguagem back-end mais utilizada na Web + Stand-UP Dev**
+*04/04/2020* | **Marco Jr Somatório** | *Síndrome do impostor: Estamos juntos nisso*
+*05/04/2020* | **Rodrigo PokemaoBr** | *Ecossistema PHP: O presente, o passado e o futuro da linguagem back-end mais utilizada na Web + Stand-UP Dev*
 *07/04/2020* | **Luciano Ramalho** | *TBD*
-*08/04/2020* | **Ellen Körbes** | *TBD*
+*08/04/2020* | **Ellen Körbes** | *The Quest for the Fastest Deployment Time*
 *09/04/2020* | **Talita Bernardes** | *Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*
 *10/04/2020* | **João Brito** | *TBD*
 *11/04/2020* | **Lucas de Souza** | *Terraform além do básico*
