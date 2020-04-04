@@ -107,5 +107,6 @@ Data | Palestrante | Assunto
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
 *24/04/2020* | **Carol Code** | *TBD*
 *25/04/2020* | **Bruno Rocha** | *TBD*
+*29/04/2020* | **Guto Carvalho** | *Do commit no GitLab ao Deploy no Kubernetes, Desmistificando Pipelines!*
 *30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
 *02/05/2020* | **Patrick Debois** | *TDB*
