@@ -72,6 +72,7 @@ Palestrante | Twitter
 **Talita Bernardes** | *[@talits_bp](https://twitter.com/talits_bp)* 
 **Wellington F. Silva** | *[@_wsilva](https://twitter.com/_wsilva)*
 
+
 ### Calendário de palestras confirmadas
 
  dom | seg | ter | qua | qui | sex | sab 
