@@ -77,8 +77,8 @@ Palestrante | Twitter
  dom | seg | ter | qua | qui | sex | sab
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 29<br><br><br>|30<br><br><br>|31<br><br><br>|1<br>[Abertura](https://www.youtube.com/watch?v=jke_qf6SgAg)<br>**Organização**|2<br>[Fullstack Reativo com Spring e Angular](https://www.youtube.com/watch?v=quoQg6cu7TI)<br>**Loiane Groner**|3<br>[Desafios e Aprendizados em um momento de crise](https://www.youtube.com/watch?v=CvVe3TND6AQ)<br>**Fábio Trentini**|4<br>[Síndrome do impostor: Estamos juntos nisso](https://www.youtube.com/watch?v=rV9xfsxnJc0)<br>**Marco Jr Somatório**<br>|
-5<br>*Ecossistema PHP + Stand-UP Dev*<br>**Rodrigo PokemaoBr**|6<br><br><br> |7<br>*TBD*<br>**Luciano Ramalho**|8<br>*The Quest for the Fastest Deployment Time*<br>**Ellen Körbes**|9<br>*Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*<br>**Talita Bernardes**|10<br>*TBD*<br>**João Brito**|11<br>*Terraform além do básico*<br>**Lucas de Souza**<br><br><br>
-12<br>TBD<br>**Regis (do Python) Santos**|13<br>TBD<br>**Michelle Ribeiro**|14<br>DevOps é Cultura ou Ferramenta?<br>**Fernando Ike**<br>|15<br>*TBD*<br>**Jérôme Petazzoni**|16<br>Melhores práticas para seu pipeline de Infra as Code<br>**Rafael Gomex**|17<br>TBD<br>**Dan "phrawzty" Maher**|18<br>Classify things in Go: the easy way<br>**Sheimy Rahman**<br>|
+5<br>[Ecossistema PHP + Stand-UP Dev](https://www.youtube.com/watch?v=Hkx6jT8LH90)<br>**Rodrigo PokemaoBr**|6<br><br><br> |7<br>*TBD*<br>**Luciano Ramalho**|8<br>*The Quest for the Fastest Deployment Time*<br>**Ellen Körbes**|9<br>*Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*<br>**Talita Bernardes**|10<br>*TBD*<br>**João Brito**|11<br>*Terraform além do básico*<br>**Lucas de Souza**<br><br><br>
+12<br>TBD<br>**Regis (do Python) Santos**|13<br>Talk DevSecOps to me<br>**Michelle Ribeiro**|14<br>DevOps é Cultura ou Ferramenta?<br>**Fernando Ike**<br>|15<br>*TBD*<br>**Jérôme Petazzoni**|16<br>Melhores práticas para seu pipeline de Infra as Code<br>**Rafael Gomex**|17<br>TBD<br>**Dan "phrawzty" Maher**|18<br>Classify things in Go: the easy way<br>**Sheimy Rahman**<br>|
 19<br>CloudOps: Operating AWS at scale<br>**Mateus Prado**<br>|20<br>*TBD*<br>**Wellington F. Silva**|21<br>*Prometheus Operator, a tale about containers monitoring at iFood*<br>**Daniel Requena**|22<br>*TBD*<br>**Sasha Rosenbaum**|23<br>*Uma pequena, rápida e divertida intro prática ao Rust*<br>**Marcelo Castellani**|24<br>*TBD*<br>**Carol Code**|25<br>*TBD*<br>**Bruno Rocha**
 26<br>Kubernetes Operators: Uma Breve introdução<br>**Carlos Panato**<br>|27<br>*TBD*<br>**Julia Lamenza**<br>|28<br><br><br>|29<br>Do commit no GitLab ao deploy Kuberentes, Descomplicando a Pipeline.<br>**Guto Carvalho**|30<br>*Ideias de rollback automatizado no mundo do blameless*<br>**Camilla Martins**|1<br><br><br>|2<br>*TBD*<br>**Patrick Debois**
 
@@ -97,7 +97,7 @@ Data | Palestrante | Assunto
 *10/04/2020* | **João Brito** | *TBD*
 *11/04/2020* | **Lucas de Souza** | *Terraform além do básico*
 *12/04/2020* | **Regis (do Python) Santos** | *TBD*
-*13/04/2020* | **Michelle Ribeiro** | *TBD*
+*13/04/2020* | **Michelle Ribeiro** | *Talk DevSecOps to me*
 *14/04/2020* | **Fernando Ike** | *DevOps é Cultura ou Ferramenta?*
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
 *16/04/2020* | **Rafael Gomex** | *Melhores práticas para seu pipeline de Infra as Code*
