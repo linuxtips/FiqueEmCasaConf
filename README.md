@@ -113,3 +113,7 @@ Data | Palestrante | Assunto
 *29/04/2020* | **Guto Carvalho** | *Do commit no GitLab ao Deploy no Kubernetes, Descomplicando a Pipeline*
 *30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
 *02/05/2020* | **Patrick Debois** | *TDB*
+ __________
+ 
+### NOTA: A PANDEMIA DO COVID-19 ESTA ATINGINDO DENTRE, OUTRAS COISAS, NOSSAS POSICOES DE TRABALHO, POR ESSE MOTIVO FIZEMOS UMA PLANILHA ONDE VOCE PODE DIVULGAR UMA VAGA E INDICAR A PESSOA QUE PODE AJUDAR NA EMPRESA (FAMOSO QI), ATRAVES DO SEGUINTE LINK: [VAGAS](https://github.com/linuxtips/FiqueEmCasaConf/blob/master/VagasNaTI.md)
+JUNTOS SOMOS MAIS FORTES! :)
