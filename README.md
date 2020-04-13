@@ -94,9 +94,9 @@ Data | Palestrante | Assunto
 *07/04/2020* | **Luciano Ramalho** | *TBD*
 *08/04/2020* | **Ellen Körbes** | *The Quest for the Fastest Deployment Time*
 *09/04/2020* | **Talita Bernardes** | *Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*
-*10/04/2020* | **João Brito** | *TBD*
+*10/04/2020* | **Regis (do Python) Santos** | *A Arte de Resolver Problemas*
 *11/04/2020* | **Lucas de Souza** | *Terraform além do básico*
-*12/04/2020* | **Regis (do Python) Santos** | *TBD*
+*12/04/2020* | **João Brito** | *TBD*
 *13/04/2020* | **Michelle Ribeiro** | *Talk DevSecOps to me*
 *14/04/2020* | **Fernando Ike** | *DevOps é Cultura ou Ferramenta?*
 *15/04/2020* | **Jérôme Petazzoni** | *TBD*
@@ -109,7 +109,7 @@ Data | Palestrante | Assunto
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
 *24/04/2020* | **Carol Code** | *TBD*
-*25/04/2020* | **Bruno Rocha** | *TBD*
+*25/04/2020* | **Bruno Rocha** | *Python para Web APIs*
 *26/04/2020* | **Carlos Panato** | *Kubernetes Operators: Uma Breve introdução*
 *27/04/2020* | **Julia Lamenza** | *TBD*
 *28/04/2020* | **Giovanni Bassi** | *Usando um ambiente Linux completo no Windows com WSL e VSCode*
@@ -117,6 +117,7 @@ Data | Palestrante | Assunto
 *30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
 *01/05/2020* | **Nathen Harvey** | *TBD*
 *02/05/2020* | **Patrick Debois** | *TDB*
+*03/05/2020* | **Natalia Raythz** | *Docker para Machine Learning*
  __________
  
 ### NOTA: A PANDEMIA DO COVID-19 ESTA ATINGINDO DENTRE, OUTRAS COISAS, NOSSAS POSICOES DE TRABALHO, POR ESSE MOTIVO FIZEMOS UMA PLANILHA ONDE VOCE PODE DIVULGAR UMA VAGA E INDICAR A PESSOA QUE PODE AJUDAR NA EMPRESA (FAMOSO QI), ATRAVES DO SEGUINTE LINK: [VAGAS](https://github.com/linuxtips/FiqueEmCasaConf/blob/master/VagasNaTI.md)
