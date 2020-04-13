@@ -77,10 +77,10 @@ Palestrante | Twitter
  dom | seg | ter | qua | qui | sex | sab
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 29<br><br><br>|30<br><br><br>|31<br><br><br>|1<br>[Abertura](https://www.youtube.com/watch?v=jke_qf6SgAg)<br>**Organização**|2<br>[Fullstack Reativo com Spring e Angular](https://www.youtube.com/watch?v=quoQg6cu7TI)<br>**Loiane Groner**|3<br>[Desafios e Aprendizados em um momento de crise](https://www.youtube.com/watch?v=CvVe3TND6AQ)<br>**Fábio Trentini**|4<br>[Síndrome do impostor: Estamos juntos nisso](https://www.youtube.com/watch?v=rV9xfsxnJc0)<br>**Marco Jr Somatório**<br>|
-5<br>[Ecossistema PHP + Stand-UP Dev](https://www.youtube.com/watch?v=Hkx6jT8LH90)<br>**Rodrigo PokemaoBr**|6<br>[Papo de Segunda](https://www.youtube.com/watch?v=vpEC6MsRf1o)<br>**Secret Team**<br> |7<br>[A Beleza de Python](https://www.youtube.com/watch?v=2TLU3d3qgCw)<br>**Luciano Ramalho**|8<br>[The Quest for the Fastest Deployment Time](https://www.youtube.com/watch?v=itzm_ZNN74s)<br>**Ellen Körbes**|9<br>*Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*<br>**Talita Bernardes**|10<br>*A Arte de Resolver Problemas*<br>**Regis (do Python) Santos**|11<br>*Terraform além do básico*<br>**Lucas de Souza**<br><br><br>
+5<br>[Ecossistema PHP + Stand-UP Dev](https://www.youtube.com/watch?v=Hkx6jT8LH90)<br>**Rodrigo PokemaoBr**|6<br>[Papo de Segunda](https://www.youtube.com/watch?v=vpEC6MsRf1o)<br>**Secret Team**|7<br>[A Beleza do Python](https://www.youtube.com/watch?v=2TLU3d3qgCw)<br>**Luciano Ramalho**|8<br>[The Quest for the Fastest Deployment Time](https://www.youtube.com/watch?v=itzm_ZNN74s)<br>**Ellen Körbes**|9<br>[Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso](https://www.youtube.com/watch?v=nK7wxsAjMhA)<br>**Talita Bernardes**|10<br>*A Arte de Resolver Problemas*<br>**Regis (do Python) Santos**|11<br>[Terraform além do básico](https://github.com/souzaxx/terraform-alem-do-basico)<br>**Lucas de Souza**<br><br><br>
 12<br>TBD<br>**João Brito**|13<br>Talk DevSecOps to me<br>**Michelle Ribeiro**|14<br>DevOps é Cultura ou Ferramenta?<br>**Fernando Ike**<br>|15<br>*TBD*<br>**Jérôme Petazzoni**|16<br>Melhores práticas para seu pipeline de Infra as Code<br>**Rafael Gomex**|17<br>TBD<br>**Dan "phrawzty" Maher**|18<br>Classify things in Go: the easy way<br>**Sheimy Rahman**<br>|
-19<br>CloudOps: Operating AWS at scale<br>**Mateus Prado**<br>|20<br>*TBD*<br>**Wellington F. Silva**|21<br>*Prometheus Operator, a tale about containers monitoring at iFood*<br>**Daniel Requena**|22<br>*TBD*<br>**Sasha Rosenbaum**|23<br>*Uma pequena, rápida e divertida intro prática ao Rust*<br>**Marcelo Castellani**|24<br>*TBD*<br>**Carol Code**|25<br>*TBD*<br>**Bruno Rocha**
-26<br>Kubernetes Operators: Uma Breve introdução<br>**Carlos Panato**<br>|27<br>*TBD*<br>**Julia Lamenza**<br>|28<br>Usando um ambiente Linux completo no Windows com WSL e VSCode<br>**Giovanni Bassi**|29<br>Do commit no GitLab ao deploy Kuberentes, Descomplicando a Pipeline.<br>**Guto Carvalho**|30<br>*Ideias de rollback automatizado no mundo do blameless*<br>**Camilla Martins**|1<br>*TBD*<br>**Nathen Harvey**<br>|2<br>*TBD*<br>**Patrick Debois**
+19<br>CloudOps: Operating AWS at scale<br>**Mateus Prado**<br>|20<br>*TBD*<br>**Wellington F. Silva**|21<br>*Prometheus Operator, a tale about containers monitoring at iFood*<br>**Daniel Requena**|22<br>*TBD*<br>**Sasha Rosenbaum**|23<br>*Uma pequena, rápida e divertida intro prática ao Rust*<br>**Marcelo Castellani**|24<br>*TBD*<br>**Carol Code**|25<br>*Python para web APIs*<br>**Bruno Rocha**
+26<br>Kubernetes Operators: Uma Breve introdução<br>**Carlos Panato**<br>|27<br>*TBD*<br>**Julia Lamenza**<br>|28<br>Usando um ambiente Linux completo no Windows com WSL e VSCode<br>**Giovanni Bassi**|29<br>Do commit no GitLab ao deploy Kuberentes, Descomplicando a Pipeline.<br>**Guto Carvalho**|30<br>*Ideias de rollback automatizado no mundo do blameless*<br>**Camilla Martins**|1<br>*TBD*<br>**Nathen Harvey**<br>|2<br>*TBD*<br>**Patrick Debois**|3<br>*Docker para Machine Learning*<br>**Natalia Raythz**
 
 ### Mais detalhes das palestras
 
@@ -109,7 +109,7 @@ Data | Palestrante | Assunto
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
 *24/04/2020* | **Carol Code** | *TBD*
-*25/04/2020* | **Bruno Rocha** | *TBD*
+*25/04/2020* | **Bruno Rocha** | *Python para Web APIs*
 *26/04/2020* | **Carlos Panato** | *Kubernetes Operators: Uma Breve introdução*
 *27/04/2020* | **Julia Lamenza** | *TBD*
 *28/04/2020* | **Giovanni Bassi** | *Usando um ambiente Linux completo no Windows com WSL e VSCode*
@@ -117,6 +117,7 @@ Data | Palestrante | Assunto
 *30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
 *01/05/2020* | **Nathen Harvey** | *TBD*
 *02/05/2020* | **Patrick Debois** | *TDB*
+*03/05/2020* | **Natalia Raythz** | *Docker para Machine Learning*
  __________
  
 ### NOTA: A PANDEMIA DO COVID-19 ESTA ATINGINDO DENTRE, OUTRAS COISAS, NOSSAS POSICOES DE TRABALHO, POR ESSE MOTIVO FIZEMOS UMA PLANILHA ONDE VOCE PODE DIVULGAR UMA VAGA E INDICAR A PESSOA QUE PODE AJUDAR NA EMPRESA (FAMOSO QI), ATRAVES DO SEGUINTE LINK: [VAGAS](https://github.com/linuxtips/FiqueEmCasaConf/blob/master/VagasNaTI.md)
