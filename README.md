@@ -81,7 +81,8 @@ Palestrante | Twitter
 12<br>TBD<br>**João Brito**|13<br>Talk DevSecOps to me<br>**Michelle Ribeiro**|14<br>DevOps é Cultura ou Ferramenta?<br>**Fernando Ike**<br>|15<br>*TBD*<br>**Jérôme Petazzoni**|16<br>Melhores práticas para seu pipeline de Infra as Code<br>**Rafael Gomex**|17<br>TBD<br>**Dan "phrawzty" Maher**|18<br>Classify things in Go: the easy way<br>**Sheimy Rahman**<br>|
 19<br>CloudOps: Operating AWS at scale<br>**Mateus Prado**<br>|20<br>*TBD*<br>**Wellington F. Silva**|21<br>*Prometheus Operator, a tale about containers monitoring at iFood*<br>**Daniel Requena**|22<br>*TBD*<br>**Sasha Rosenbaum**|23<br>*Uma pequena, rápida e divertida intro prática ao Rust*<br>**Marcelo Castellani**|24<br>*TBD*<br>**Carol Code**|25<br>*TBD*<br>**Bruno Rocha**
 26<br>Kubernetes Operators: Uma Breve introdução<br>**Carlos Panato**<br>|27<br>*TBD*<br>**Julia Lamenza**<br>|28<br>Usando um ambiente Linux completo no Windows com WSL e VSCode<br>**Giovanni Bassi**|29<br>Do commit no GitLab ao deploy Kuberentes, Descomplicando a Pipeline.<br>**Guto Carvalho**|30<br>*Ideias de rollback automatizado no mundo do blameless*<br>**Camilla Martins**|1<br>*TBD*<br>**Nathen Harvey**<br>|2<br>*TBD*<br>**Patrick Debois**|
-3<br>*Docker para Machine Learning*<br>**Natalia Raythz**|
+3<br>*Docker para Machine Learning*<br>**Natalia Raythz**
+
 
 ### Mais detalhes das palestras
 
@@ -92,7 +93,8 @@ Data | Palestrante | Assunto
 *03/04/2020* | **Fabio Trentini** | *Empreendendo em Tecnologia: Desafios e Aprendizados em um momento de crise*
 *04/04/2020* | **Marco Jr Somatório** | *Síndrome do impostor: Estamos juntos nisso*
 *05/04/2020* | **Rodrigo PokemaoBr** | *Ecossistema PHP: O presente, o passado e o futuro da linguagem back-end mais utilizada na Web + Stand-UP Dev*
-*07/04/2020* | **Luciano Ramalho** | *TBD*
+*06/04/2020* | **Secret Team** | *Papo de Segunda*
+*07/04/2020* | **Luciano Ramalho** | *A Beleza de Python*
 *08/04/2020* | **Ellen Körbes** | *The Quest for the Fastest Deployment Time*
 *09/04/2020* | **Talita Bernardes** | *Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*
 *10/04/2020* | **Regis (do Python) Santos** | *A Arte de Resolver Problemas*
@@ -109,7 +111,7 @@ Data | Palestrante | Assunto
 *22/04/2020* | **Sasha Rosenbaum** | *TBD*
 *23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
 *24/04/2020* | **Carol Code** | *TBD*
-*25/04/2020* | **Bruno Rocha** | *TBD*
+*25/04/2020* | **Bruno Rocha** | *Python para Web APIs*
 *26/04/2020* | **Carlos Panato** | *Kubernetes Operators: Uma Breve introdução*
 *27/04/2020* | **Julia Lamenza** | *TBD*
 *28/04/2020* | **Giovanni Bassi** | *Usando um ambiente Linux completo no Windows com WSL e VSCode*
