@@ -118,7 +118,7 @@ Data | Palestrante | Assunto
 *28/04/2020* | **Giovanni Bassi** | *Usando um ambiente Linux completo no Windows com WSL e VSCode*
 *29/04/2020* | **Guto Carvalho** | *Do commit no GitLab ao Deploy no Kubernetes, Descomplicando a Pipeline*
 *30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
-*01/05/2020* | **Nathen Harvey** | *TBD*
+*01/05/2020* | **Nathen Harvey** | *SRE - Using Error Budgets to Prioritize Work*
 *02/05/2020* | **Patrick Debois** | *TDB*
 *03/05/2020* | **Natalia Raythz** | *Docker para Machine Learning*
  __________
