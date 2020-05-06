@@ -81,7 +81,7 @@ Palestrante | Twitter
 12<br>[Divã do João](https://www.youtube.com/watch?v=llZGMUBoYKY)<br>**João Brito**|13<br>[Talk DevSecOps to me](https://www.youtube.com/watch?v=pCq7mZ4kDpE)<br>**Michelle Ribeiro**|14<br>[DevOps é Cultura ou Ferramenta?](https://www.youtube.com/watch?v=5BgPIETVYSQ)<br>**Fernando Ike**<br>|15<br>[Creating Optimized Images for Docker and Kubernetes](https://www.youtube.com/watch?v=UbXv-T4IUXk)<br>**Jérôme Petazzoni**|16<br>[Melhores práticas para seu pipeline de Infra as Code](https://www.youtube.com/watch?v=XGSuK8kyGag)<br>**Rafael Gomex**|17<br>[Better reliability through SLOs](https://youtu.be/JOFYhFbrsK8)<br>**Dan "phrawzty" Maher**|18<br>[Classify things in Go: the easy way](https://youtu.be/2cCiO4MlzbM)<br>**Sheimy Rahman**<br>|
 19<br>[Saúde mental em tempos de Coronavírus](https://www.youtube.com/watch?v=VMjraJohIWM)<br>**Rosana De Rosa**<br><br>[CloudOps: Operating AWS at scale](https://www.youtube.com/watch?v=Pv_2zgR9qNw)<br>**Mateus Prado**<br>|20<br>[DevOps is Dead](https://www.youtube.com/watch?v=6s_C85Gii9k)<br>**Wellington F. Silva**|21<br>[Prometheus Operator, a tale about containers monitoring at iFood](https://www.youtube.com/watch?v=YQuSSAZsP0c)<br>**Daniel Requena**|22<br>*[Survival of the most open: Microsoft’s Open Source Journey](https://www.youtube.com/watch?v=ekEKccKEpc4)*<br>**Sasha Rosenbaum**|23<br>[Uma pequena, rápida e divertida intro prática ao Rust](https://www.youtube.com/watch?v=jCEowpEBOqM)<br>**Marcelo Castellani**|24<br>[Aquela cervejinha de sexta-feira](https://www.youtube.com/watch?v=fL-Qp975-eI)<br>**Happy Hour!**|25<br>[Python para web APIs](https://www.youtube.com/watch?v=U6BzW48-D9A)<br>**Bruno Rocha**
 26<br>[Kubernetes Operators: Uma Breve introdução](https://www.youtube.com/watch?v=g3gJTP_vrgk)<br>**Carlos Panato**<br>|27<br>[Desbravando um mundo novo: SRE, DevOps, carreira e afins](https://www.youtube.com/watch?v=Q7J3iK0mxSE)<br>**Julia Lamenza**<br>|28<br>[Usando um ambiente Linux completo no Windows com WSL e VSCode](https://www.youtube.com/watch?v=_Uqf5_kN6Rw)<br>**Giovanni Bassi**|29<br>[Do commit no GitLab ao deploy Kuberentes, Descomplicando a Pipeline.](https://www.youtube.com/watch?v=hnc3GD_gWEA)<br>**Guto Carvalho**|30<br>[Ideias de rollback automatizado no mundo do blameless](https://www.youtube.com/watch?v=EN-OYC3pjKc)<br>**Camilla Martins**|1<br>[SRE - Using Error Budgets to Prioritize Work](https://www.youtube.com/watch?v=zgP8asuvsqo)<br>**Nathen Harvey**<br>|2<br>[Trust me, we're doing DevSecOps](https://www.youtube.com/watch?v=W-RE3fnhFYE)<br>**Patrick Debois**|
-3<br>*Docker para Machine Learning*<br>**Natalia Raythz**
+3<br>[Docker para Machine Learning](https://www.youtube.com/watch?v=J5E59YgbyYo)<br>**Natalia Raythz**|4<br>[Encerramento](https://www.youtube.com/watch?v=0aRlmyoC9ok)<br>**#FiqueEmCasaConf**
 
 ### Mais detalhes das palestras
 
@@ -114,12 +114,12 @@ Data | Palestrante | Assunto
 *24/04/2020* | **Happy Hour!** | *Aquela cervejinha de sexta-feira*
 *25/04/2020* | **Bruno Rocha** | *Python para Web APIs*
 *26/04/2020* | **Carlos Panato** | *Kubernetes Operators: Uma Breve introdução*
-*27/04/2020* | **Julia Lamenza** | *TBD*
+*27/04/2020* | **Julia Lamenza** | *Desbravando um mundo novo: SRE, DevOps, carreira e afins*
 *28/04/2020* | **Giovanni Bassi** | *Usando um ambiente Linux completo no Windows com WSL e VSCode*
 *29/04/2020* | **Guto Carvalho** | *Do commit no GitLab ao Deploy no Kubernetes, Descomplicando a Pipeline*
 *30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
 *01/05/2020* | **Nathen Harvey** | *SRE - Using Error Budgets to Prioritize Work*
-*02/05/2020* | **Patrick Debois** | *TDB*
+*02/05/2020* | **Patrick Debois** | *Trust me, we're doing DevSecOps*
 *03/05/2020* | **Natalia Raythz** | *Docker para Machine Learning*
  __________
  
