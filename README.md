@@ -87,41 +87,41 @@ Palestrante | Twitter
 
 Data | Palestrante | Assunto
 --- | --- | ---
-*01/04/2020* | **Organização** | *Abertura*
-*02/04/2020* | **Loiane Groner** | *Fullstack Reativo com Spring e Angular*
-*03/04/2020* | **Fabio Trentini** | *Empreendendo em Tecnologia: Desafios e Aprendizados em um momento de crise*
-*04/04/2020* | **Marco Jr Somatório** | *Síndrome do impostor: Estamos juntos nisso*
-*05/04/2020* | **Rodrigo PokemaoBr** | *Ecossistema PHP: O presente, o passado e o futuro da linguagem back-end mais utilizada na Web + Stand-UP Dev*
-*06/04/2020* | **Secret Team** | *Papo de Segunda*
-*07/04/2020* | **Luciano Ramalho** | *A Beleza de Python*
-*08/04/2020* | **Ellen Körbes** | *The Quest for the Fastest Deployment Time*
-*09/04/2020* | **Talita Bernardes** | *Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso*
-*10/04/2020* | **Regis (do Python) Santos** | *A Arte de Resolver Problemas*
-*11/04/2020* | **Lucas de Souza** | *Terraform além do básico*
-*12/04/2020* | **João Brito** | *Divã do João*
-*13/04/2020* | **Michelle Ribeiro** | *Talk DevSecOps to me*
-*14/04/2020* | **Fernando Ike** | *DevOps é Cultura ou Ferramenta?*
-*15/04/2020* | **Jérôme Petazzoni** | *Creating Optimized Images for Docker and Kubernetes*
-*16/04/2020* | **Rafael Gomex** | *Melhores práticas para seu pipeline de Infra as Code*
-*17/04/2020* | **Dan "phrawzty" Maher** | *Better reliability through SLOs*
-*18/04/2020* | **Sheimy Rahman** | *Classify things in Go: the easy way.*
-*19/04/2020* | **Rosana De Rosa** | *Saúde mental em tempos de Coronavírus - 14h*
-*19/04/2020* | **Mateus Prado** | *CloudOps: Operating AWS at scale.*
-*20/04/2020* | **Wellington F. Silva** | *O DevOps acabou (DevOps is Dead)*
-*21/04/2020* | **Daniel Requena** | *Prometheus Operator, a tale about containers monitoring at iFood*
-*22/04/2020* | **Sasha Rosenbaum** | *Survival of the most open: Microsoft’s Open Source Journey*
-*23/04/2020* | **Marcelo Castellani** | *Uma pequena, rapida e divertida intro pratica ao Rust*
-*24/04/2020* | **Happy Hour!** | *Aquela cervejinha de sexta-feira*
-*25/04/2020* | **Bruno Rocha** | *Python para Web APIs*
-*26/04/2020* | **Carlos Panato** | *Kubernetes Operators: Uma Breve introdução*
-*27/04/2020* | **Julia Lamenza** | *Desbravando um mundo novo: SRE, DevOps, carreira e afins*
-*28/04/2020* | **Giovanni Bassi** | *Usando um ambiente Linux completo no Windows com WSL e VSCode*
-*29/04/2020* | **Guto Carvalho** | *Do commit no GitLab ao Deploy no Kubernetes, Descomplicando a Pipeline*
-*30/04/2020* | **Camilla Martins** | *Ideias de rollback automatizado no mundo do blameless*
-*01/05/2020* | **Nathen Harvey** | *SRE - Using Error Budgets to Prioritize Work*
-*02/05/2020* | **Patrick Debois** | *Trust me, we're doing DevSecOps*
-*03/05/2020* | **Natalia Raythz** | *Docker para Machine Learning*
-*04/05/2020* | **Organização** | *Encerramento*
+*01/04/2020* | **Organização** | <a href="https://www.youtube.com/watch?v=jke_qf6SgAg" target="_blank">Abertura</a>
+*02/04/2020* | **Loiane Groner** | <a href="https://www.youtube.com/watch?v=quoQg6cu7TI" target="_blank">Fullstack Reativo com Spring e Angular</a>
+*03/04/2020* | **Fabio Trentini** | <a href="https://www.youtube.com/watch?v=CvVe3TND6AQ" target="_blank">Desafios e Aprendizados em um momento de crise</a>
+*04/04/2020* | **Marco Jr Somatório** | <a href="https://www.youtube.com/watch?v=rV9xfsxnJc0" target="_blank">Síndrome do impostor: Estamos juntos nisso</a>
+*05/04/2020* | **Rodrigo PokemaoBr** | <a href="https://www.youtube.com/watch?v=Hkx6jT8LH90" target="_blank">Ecossistema PHP + Stand-UP Dev</a>
+*06/04/2020* | **Secret Team** | <a href="https://www.youtube.com/watch?v=vpEC6MsRf1o" target="_blank">Papo de Segunda</a>
+*07/04/2020* | **Luciano Ramalho** | <a href="https://www.youtube.com/watch?v=2TLU3d3qgCw" target="_blank">A Beleza do Python</a>
+*08/04/2020* | **Ellen Körbes** | <a href="https://www.youtube.com/watch?v=itzm_ZNN74s" target="_blank">The Quest for the Fastest Deployment Time</a>
+*09/04/2020* | **Talita Bernardes** | <a href="https://www.youtube.com/watch?v=nK7wxsAjMhA" target="_blank">Deixando seu cluster k8s em quarentena: sobre políticas e controle de acesso</a>
+*10/04/2020* | **Regis (do Python) Santos** | <a href="https://youtu.be/iVV33pikDJk" target="_blank">A Arte de Resolver Problemas</a></em>
+*11/04/2020* | **Lucas de Souza** | <a href="https://github.com/souzaxx/terraform-alem-do-basico">Terraform além do básico</a>
+*12/04/2020* | **João Brito** | <a href="https://www.youtube.com/watch?v=llZGMUBoYKY" target="_blank">Divã do João</a>
+*13/04/2020* | **Michelle Ribeiro** | <a href="https://www.youtube.com/watch?v=pCq7mZ4kDpE" target="_blank">Talk DevSecOps to me</a>
+*14/04/2020* | **Fernando Ike** | <a href="https://www.youtube.com/watch?v=5BgPIETVYSQ" target="_blank">DevOps é Cultura ou Ferramenta?</a>
+*15/04/2020* | **Jérôme Petazzoni** | <a href="https://www.youtube.com/watch?v=UbXv-T4IUXk" target="_blank">Creating Optimized Images for Docker and Kubernetes</a>
+*16/04/2020* | **Rafael Gomex** | <a href="https://www.youtube.com/watch?v=XGSuK8kyGag" target="_blank">Melhores práticas para seu pipeline de Infra as Code</a>
+*17/04/2020* | **Dan "phrawzty" Maher** | <a href="https://youtu.be/JOFYhFbrsK8" target="_blank">Better reliability through SLOs</a>
+*18/04/2020* | **Sheimy Rahman** | <a href="https://youtu.be/2cCiO4MlzbM" target="_blank">Classify things in Go: the easy way</a>
+*19/04/2020* | **Rosana De Rosa** | <a href="https://www.youtube.com/watch?v=VMjraJohIWM" target="_blank">Saúde mental em tempos de Coronavírus</a>
+*19/04/2020* | **Mateus Prado** | <a href="https://www.youtube.com/watch?v=Pv_2zgR9qNw" target="_blank">CloudOps: Operating AWS at scale</a>
+*20/04/2020* | **Wellington F. Silva** | <a href="https://www.youtube.com/watch?v=6s_C85Gii9k" target="_blank">DevOps is Dead</a>
+*21/04/2020* | **Daniel Requena** | <a href="https://www.youtube.com/watch?v=YQuSSAZsP0c" target="_blank">Prometheus Operator, a tale about containers monitoring at iFood</a>
+*22/04/2020* | **Sasha Rosenbaum** | <a href="https://www.youtube.com/watch?v=ekEKccKEpc4" target="_blank">Survival of the most open: Microsoft’s Open Source Journey</a></em>
+*23/04/2020* | **Marcelo Castellani** | <a href="https://www.youtube.com/watch?v=jCEowpEBOqM" target="_blank">Uma pequena, rápida e divertida intro prática ao Rust</a>
+*24/04/2020* | **Happy Hour!** | <a href="https://www.youtube.com/watch?v=fL-Qp975-eI" target="_blank">Aquela cervejinha de sexta-feira</a>
+*25/04/2020* | **Bruno Rocha** | <a href="https://www.youtube.com/watch?v=U6BzW48-D9A" target="_blank">Python para web APIs</a>
+*26/04/2020* | **Carlos Panato** | <a href="https://www.youtube.com/watch?v=g3gJTP_vrgk" target="_blank">Kubernetes Operators: Uma Breve introdução</a>
+*27/04/2020* | **Julia Lamenza** | <a href="https://www.youtube.com/watch?v=Q7J3iK0mxSE" target="_blank">Desbravando um mundo novo: SRE, DevOps, carreira e afins</a>
+*28/04/2020* | **Giovanni Bassi** | <a href="https://www.youtube.com/watch?v=_Uqf5_kN6Rw" target="_blank">Usando um ambiente Linux completo no Windows com WSL e VSCode</a>
+*29/04/2020* | **Guto Carvalho** | <a href="https://www.youtube.com/watch?v=hnc3GD_gWEA" target="_blank">Do commit no GitLab ao deploy Kuberentes, Descomplicando a Pipeline.</a>
+*30/04/2020* | **Camilla Martins** | <a href="https://www.youtube.com/watch?v=EN-OYC3pjKc" target="_blank">Ideias de rollback automatizado no mundo do blameless</a>
+*01/05/2020* | **Nathen Harvey** | <a href="https://www.youtube.com/watch?v=zgP8asuvsqo" target="_blank">SRE - Using Error Budgets to Prioritize Work</a>
+*02/05/2020* | **Patrick Debois** | <a href="https://www.youtube.com/watch?v=W-RE3fnhFYE" target="_blank">Trust me, we're doing DevSecOps</a>
+*03/05/2020* | **Natalia Raythz** | <a href="https://www.youtube.com/watch?v=J5E59YgbyYo" target="_blank">Docker para Machine Learning</a>
+*04/05/2020* | **Organização** | <a href="https://www.youtube.com/watch?v=0aRlmyoC9ok" target="_blank">Encerramento</a>
  __________
  
 ### NOTA: A PANDEMIA DO COVID-19 ESTA ATINGINDO DENTRE, OUTRAS COISAS, NOSSAS POSICOES DE TRABALHO, POR ESSE MOTIVO FIZEMOS UMA PLANILHA ONDE VOCE PODE DIVULGAR UMA VAGA E INDICAR A PESSOA QUE PODE AJUDAR NA EMPRESA (FAMOSO QI), ATRAVES DO SEGUINTE LINK: [VAGAS](https://github.com/linuxtips/FiqueEmCasaConf/blob/master/VagasNaTI.md)
