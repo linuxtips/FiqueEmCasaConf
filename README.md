@@ -7,7 +7,7 @@ Vamos todos juntos aprender muito sobre tecnologia e mais do que isso, vamos tod
 Portanto, fique em casa e vamos aprender muita coisa nova!
 
 ### Quando?
-
+Será definido em breve
 
 ### Onde?
 *[Canal no Youtube da LINUXtips](https://youtube.com/linuxtips)*
