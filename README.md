@@ -32,7 +32,7 @@ Veja a grade de palestrantes confirmados e as datas de cada palestra!
 
 Palestrante | Twitter
 --- | ---
-**Seu Nome Aqui** | *[@seu_handle_aqui](https://twitter.com/seu_handle_aqui)*
+**Jeferson Fernando** | *[@badtux_](https://twitter.com/badtux_)*
 
 
 
